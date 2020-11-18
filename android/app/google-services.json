@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40883395792",
+    "firebase_url": "https://calendar-def01.firebaseio.com",
+    "project_id": "calendar-def01",
+    "storage_bucket": "calendar-def01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40883395792:android:f71cf642a97e8c405f12d5",
+        "android_client_info": {
+          "package_name": "com.vatsal.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40883395792-6ogbgq1hu0lqaq2c8m7p30bagr5b6v0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vatsal.calendar",
+            "certificate_hash": "83dccdded33e2380ac68fb1a1cf3c02c5080abd1"
+          }
+        },
+        {
+          "client_id": "40883395792-tb7sivaj32m0g5tnfq7d04fvecn02rtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDafFEy3NF0JTD7sIEsHrGPUt_dUrsyuU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40883395792-tb7sivaj32m0g5tnfq7d04fvecn02rtt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
